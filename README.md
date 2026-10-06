@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Nicholus 👋
 
-<!--
-**NicholusMagak/NicholusMagak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data professional and MSc Human-Centred AI student at TU Dublin, based in Dublin.
+I started in data modelling and ETL validation, and I'm now focused on bringing
+data warehousing and applied AI together.
 
-Here are some ideas to get you started:
+### 🔨 Currently building
+- **Snowflake data warehouse project:** star schema, SCD Type 2 dimension,
+  Power BI dashboard and a Snowflake Cortex AI feature (in progress)
+- **MSc thesis:** deploying an ML model in production with MLOps practices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Experience
+- **Data Modeler, DataSeal Software:** logical and physical data models,
+  SQL validation across ETL pipelines on Netezza
+- **Business Analyst, Promasidor:** Power BI reporting, business
+  requirements to technical solutions
+
+### 🧰 Tools
+SQL · Python · Netezza · MySQL · Power BI · GCP · AWS · Git
+
+### 📫 Contact
+nicholusmagak@gmail.com · [LinkedIn](your-link-here)
