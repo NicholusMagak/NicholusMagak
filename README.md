@@ -10,9 +10,8 @@ The three areas I'm most drawn to:
 
 - **Data warehousing with AI:** clean, well-modelled data that AI can actually
   be trusted to work with
-- **Natural language processing:** language as people really use it, including
-  African English, Swahili and Sheng
-- **Computer vision:** perception systems that are safe and useful around people
+- **Natural language processing:** language as people really use it, including English, Swahili and Sheng
+- **Computer vision:** perception systems that are safe and useful around people, especially in farming
 
 I've built projects in all three, and I'm genuinely open to wherever good
 problems lead. If it's a corner of AI I haven't touched yet, even better. That's
