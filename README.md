@@ -19,4 +19,4 @@ data warehousing and applied AI together.
 SQL · Python · Netezza · MySQL · Power BI · GCP · AWS · Git
 
 ### 📫 Contact
-nicholusmagak@gmail.com · [LinkedIn](your-link-here)
+nicholusmagak@gmail.com · [LinkedIn](https://www.linkedin.com/in/nicholus-magak-200085134/?isSelfProfile=true)
